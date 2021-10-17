@@ -1,0 +1,5 @@
+streamlit==0.80.0
+spacy_streamlit==1.0.0
+spacy==3.0.5
+wikipedia==1.4.0
+ipython==7.16.1
